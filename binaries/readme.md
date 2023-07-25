@@ -5,3 +5,5 @@ https://gitforwindows.org/
 https://maven.apache.org/download.cgi
 
 https://get.jenkins.io/war-stable/
+
+https://drive.google.com/u/0/uc?id=1jmr8oH5dAUjeGHZXnEQJUvZ-6LjPdfer&export=download
